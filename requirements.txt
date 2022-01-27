@@ -1,0 +1,4 @@
+opencv-python
+pandas
+scikit-learn
+seaborn
